@@ -1,5 +1,4 @@
 name: Deploiement GitHub Pages
-name: Deploiement GitHub Pages
 on :
   push:
     branches:
